@@ -1,0 +1,10 @@
+
+{
+
+"dependencies":["."],
+"graphs": {
+    "blog_generator_agent":"./src/graphs/graph_builder.py:graph" // graph is variable that we ca using from graph builder class.
+},
+"env":"./.env"
+
+}
